@@ -2,7 +2,9 @@
 
 Title: iWay Training Materials
 
-# License
+# iWay Training Materials
+
+## License
 
 All of the data available in this directory and its subdirectories are
 licensed under the terms of the
